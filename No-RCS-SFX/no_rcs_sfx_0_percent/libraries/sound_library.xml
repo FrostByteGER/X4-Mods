@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<!-- Space Suit RCS sounds -->
+	<remove sel="//group[@id='shipdetail_spacesuit_01']/sound[@id='enginedetail_spacesuit_01_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_spacesuit_01']/sound[@id='enginedetail_spacesuit_01_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_spacesuit_01']/sound[@id='enginedetail_spacesuit_01_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_spacesuit_01']/sound[@id='enginedetail_spacesuit_01_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_spacesuit_01']/sound[@id='enginedetail_spacesuit_01_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_spacesuit_01']/sound[@id='enginedetail_spacesuit_01_thrusters_maneuvering_roll_right']">
+	</remove>
+
+	<!-- Ship 01 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_01']/sound[@id='enginedetail_ship_01_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_01']/sound[@id='enginedetail_ship_01_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_01']/sound[@id='enginedetail_ship_01_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_01']/sound[@id='enginedetail_ship_01_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_01']/sound[@id='enginedetail_ship_01_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_01']/sound[@id='enginedetail_ship_01_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship 02 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_02']/sound[@id='enginedetail_ship_02_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_02']/sound[@id='enginedetail_ship_02_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_02']/sound[@id='enginedetail_ship_02_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_02']/sound[@id='enginedetail_ship_02_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_02']/sound[@id='enginedetail_ship_02_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_02']/sound[@id='enginedetail_ship_02_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship 03 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_03']/sound[@id='enginedetail_ship_03_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_03']/sound[@id='enginedetail_ship_03_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_03']/sound[@id='enginedetail_ship_03_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_03']/sound[@id='enginedetail_ship_03_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_03']/sound[@id='enginedetail_ship_03_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_03']/sound[@id='enginedetail_ship_03_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship m01 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_m_01']/sound[@id='enginedetail_ship_m_01_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_01']/sound[@id='enginedetail_ship_m_01_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_01']/sound[@id='enginedetail_ship_m_01_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_01']/sound[@id='enginedetail_ship_m_01_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_01']/sound[@id='enginedetail_ship_m_01_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_01']/sound[@id='enginedetail_ship_m_01_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship m02 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_m_02']/sound[@id='enginedetail_ship_m_02_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_02']/sound[@id='enginedetail_ship_m_02_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_02']/sound[@id='enginedetail_ship_m_02_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_02']/sound[@id='enginedetail_ship_m_02_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_02']/sound[@id='enginedetail_ship_m_02_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_02']/sound[@id='enginedetail_ship_m_02_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship m03 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_m_03']/sound[@id='enginedetail_ship_m_03_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_03']/sound[@id='enginedetail_ship_m_03_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_03']/sound[@id='enginedetail_ship_m_03_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_03']/sound[@id='enginedetail_ship_m_03_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_03']/sound[@id='enginedetail_ship_m_03_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_m_03']/sound[@id='enginedetail_ship_m_03_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship l01 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_l_01']/sound[@id='enginedetail_ship_l_01_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_l_01']/sound[@id='enginedetail_ship_l_01_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_l_01']/sound[@id='enginedetail_ship_l_01_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_l_01']/sound[@id='enginedetail_ship_l_01_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_l_01']/sound[@id='enginedetail_ship_l_01_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_l_01']/sound[@id='enginedetail_ship_l_01_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship xl01 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_xl_01']/sound[@id='enginedetail_ship_xl_01_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_xl_01']/sound[@id='enginedetail_ship_xl_01_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_xl_01']/sound[@id='enginedetail_ship_xl_01_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_xl_01']/sound[@id='enginedetail_ship_xl_01_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_xl_01']/sound[@id='enginedetail_ship_xl_01_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_xl_01']/sound[@id='enginedetail_ship_xl_01_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship terran_s_01 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_terran_s_01']/sound[@id='shipdetail_ship_terran_s_01_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_01']/sound[@id='shipdetail_ship_terran_s_01_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_01']/sound[@id='shipdetail_ship_terran_s_01_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_01']/sound[@id='shipdetail_ship_terran_s_01_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_01']/sound[@id='shipdetail_ship_terran_s_01_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_01']/sound[@id='shipdetail_ship_terran_s_01_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship terran_s_02 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_terran_s_02']/sound[@id='shipdetail_ship_terran_s_02_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_02']/sound[@id='shipdetail_ship_terran_s_02_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_02']/sound[@id='shipdetail_ship_terran_s_02_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_02']/sound[@id='shipdetail_ship_terran_s_02_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_02']/sound[@id='shipdetail_ship_terran_s_02_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_02']/sound[@id='shipdetail_ship_terran_s_02_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship terran_s_03 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_terran_s_03']/sound[@id='shipdetail_ship_terran_s_03_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_03']/sound[@id='shipdetail_ship_terran_s_03_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_03']/sound[@id='shipdetail_ship_terran_s_03_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_03']/sound[@id='shipdetail_ship_terran_s_03_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_03']/sound[@id='shipdetail_ship_terran_s_03_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_s_03']/sound[@id='shipdetail_ship_terran_s_03_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship terran_m_01 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_terran_m_01']/sound[@id='shipdetail_ship_terran_m_01_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_01']/sound[@id='shipdetail_ship_terran_m_01_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_01']/sound[@id='shipdetail_ship_terran_m_01_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_01']/sound[@id='eshipdetail_ship_terran_m_01_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_01']/sound[@id='shipdetail_ship_terran_m_01_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_01']/sound[@id='shipdetail_ship_terran_m_01_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship terran_m_02 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_terran_m_02']/sound[@id='shipdetail_ship_terran_m_02_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_02']/sound[@id='shipdetail_ship_terran_m_02_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_02']/sound[@id='shipdetail_ship_terran_m_02_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_02']/sound[@id='eshipdetail_ship_terran_m_02_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_02']/sound[@id='shipdetail_ship_terran_m_02_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_02']/sound[@id='shipdetail_ship_terran_m_02_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship terran_m_03 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_terran_m_03']/sound[@id='shipdetail_ship_terran_m_03_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_03']/sound[@id='shipdetail_ship_terran_m_03_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_03']/sound[@id='shipdetail_ship_terran_m_03_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_03']/sound[@id='eshipdetail_ship_terran_m_03_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_03']/sound[@id='shipdetail_ship_terran_m_03_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_m_03']/sound[@id='shipdetail_ship_terran_m_03_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship terran_l_xl_01 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_01']/sound[@id='shipdetail_ship_terran_l_xl_01_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_01']/sound[@id='shipdetail_ship_terran_l_xl_01_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_01']/sound[@id='shipdetail_ship_terran_l_xl_01_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_01']/sound[@id='shipdetail_ship_terran_l_xl_01_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_01']/sound[@id='shipdetail_ship_terran_l_xl_01_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_01']/sound[@id='shipdetail_ship_terran_l_xl_01_thrusters_maneuvering_roll_right']">
+	</remove>
+	
+	<!-- Ship terran_l_xl_02 RCS sounds -->
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_02']/sound[@id='shipdetail_ship_terran_l_xl_02_thrusters_maneuvering_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_02']/sound[@id='shipdetail_ship_terran_l_xl_02_thrusters_maneuvering_right']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_02']/sound[@id='shipdetail_ship_terran_l_xl_02_thrusters_maneuvering_up']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_02']/sound[@id='shipdetail_ship_terran_l_xl_02_thrusters_maneuvering_down']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_02']/sound[@id='shipdetail_ship_terran_l_xl_02_thrusters_maneuvering_roll_left']">
+	</remove>
+	<remove sel="//group[@id='shipdetail_ship_terran_l_xl_02']/sound[@id='shipdetail_ship_terran_l_xl_02_thrusters_maneuvering_roll_right']">
+	</remove>
+</diff>

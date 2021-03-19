@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!--Note: need to use &#10; for newlines, as normal newlines are ignored.-->
+<content id="no_rcs_sfx_0_percent_volume" name="No RCS Sound Effects - 0% Volume" description="Reduces the volume of RCS thruster sound effects 
+played each time you move the ship around by 100 percent. This affects all ship types and the space suit." author="Phinixa" version="200" date="2021-03-19" save="false" sync="false">
+</content>
